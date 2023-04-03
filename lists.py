@@ -47,7 +47,7 @@ for i in range(len(var3)):
     
 ### dont look at this code
 
-list_of_lists = [[random.randint(0,10) for j in range(5)] for i in range(5)]
+list_of_lists = [[random.randint(0,10) for j in range(5)] for i in range(5)] # list comprehension
 
 ### you can look again
 
